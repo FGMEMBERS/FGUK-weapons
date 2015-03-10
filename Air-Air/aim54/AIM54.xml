@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PropertyList>
+<!--
+Type Long-range air-to-air missile 
+Place of origin United States 
+
+Weight 1,000–1,040 lb (450–470 kg) 
+Length 13 ft (4.0 m) 
+Diameter 15 in (380 mm) 
+
+
+Launch
+platform Grumman F-14 Tomcat 
+-->
+
+  <path>aim54.ac</path>
+
+  <animation>
+    <object-name>aim54</object-name>
+  </animation>
+
+</PropertyList>
